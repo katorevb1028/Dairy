@@ -5,6 +5,7 @@ import java.util.IdentityHashMap;
 
 class Student
 {
+	
 	int i=20;
 	 Student(int i)
 	{
