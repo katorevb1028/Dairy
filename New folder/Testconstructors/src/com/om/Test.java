@@ -14,7 +14,7 @@ class Student
 }
 class Child extends Student
 {
-Child()
+Child()   
 {
 	super(3);
 }
